@@ -1,3 +1,4 @@
 <?php
-echo "Welcome to new experiance";
+$text = "Welcome to new experiance";
+echo $text;
 ?>
